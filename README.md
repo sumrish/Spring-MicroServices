@@ -1,6 +1,8 @@
 # Spring-MicroServices
 
-To start your Phoenix server:
+* This is the basic micro-service written in JAVA, which gives a beginner basic level or understanding that how rest api's are created.
+
+To start your LocalHost server:
 
   * Just run the main method of each service i.e. Album and User microservices.
 
